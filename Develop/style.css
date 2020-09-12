@@ -14,7 +14,7 @@ body,
 
 body {
   font-family: sans-serif;
-  background-image: url(../Develop/webb-dark/webb-dark.png)
+  background: #261864; 
 }
 
 .wrapper {

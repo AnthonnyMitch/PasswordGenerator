@@ -34,10 +34,10 @@ get.addEventListener("click", function () {
 
 function generatePassword() {
     
-  enter = parseInt(prompt("How many characters would you like your password? Choose between 8 and 128"));
-  // condition about the characters
-    if (enter < 8 || enter > 128) {
-      enter = parseInt(prompt("You must choose between 8 and 128"));
+    enter = parseInt(prompt("How many characters would you like your password? Choose between 8 and 128"));
+    // condition about the characters
+      if (enter < 8 || enter > 128) {
+        enter = parseInt(prompt("You must choose between 8 and 128"));
        
         
 
