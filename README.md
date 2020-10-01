@@ -1,2 +1,2 @@
 # PasswordGenerator
-Generate secure password up to 130 characters.
+Generate secure password up to 128 characters.
